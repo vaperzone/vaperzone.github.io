@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vaperrzone.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vaperrzone.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vaperrzone.myshopify.com/collections/all.atom"/>
+  <title>Vaper Zone</title>
+  <updated>2024-08-22T22:29:34+02:00</updated>
+  <author>
+    <name>Vaper Zone</name>
+  </author>
+  <entry>
+    <id>https://vaperrzone.myshopify.com/products/9524198605141</id>
+    <published>2024-08-22T22:29:34+02:00</published>
+    <updated>2024-08-22T22:29:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vaperrzone.myshopify.com/products/vaper-melon-4800-caladas"/>
+    <title>Vaper Melon 4800 caladas</title>
+    <s:type>Vaper</s:type>
+    <s:vendor>amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0892/1222/3829/files/melon.jpg?v=1724358521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>amazon<br>
+        <strong>Tipo: </strong>Vaper<br>
+        <strong>Precio: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Vaper sabor Melón 4800 caladas</strong><br></p>
+<p><strong>Disfruta de una experiencia de vapeo refrescante con el sabor inconfundible de Mango Hielo.</strong></p>
+<ul>
+<li>
+<p><strong>8 Sabores Disponibles:</strong> Este modelo está disponible en una variedad de 8 sabores distintos, entre ellos Melón, para una experiencia sensorial única en cada inhalación.</p>
+</li>
+<li>
+<p><strong>Diseño Elegante con Impresión en Relieve:</strong> El vapeador cuenta con un diseño de impresión en relieve, que ofrece una sensación táctil premium y cómoda al sostenerlo.</p>
+</li>
+<li>
+<p><strong>Luz LED Inferior:</strong> Equipado con una luz LED en la parte inferior, el dispositivo indica su estado de funcionamiento de manera elegante y discreta.</p>
+</li>
+<li>
+<p><strong>Listo para Usar:</strong> El pod desechable es compacto y está listo para usar directamente al sacarlo de la caja. Perfecto para llevar a cualquier lugar sin necesidad de cargar accesorios adicionales.</p>
+</li>
+<li>
+<p><strong>Batería de Larga Duración:</strong> La potente batería garantiza una experiencia de vapeo duradera, equivalente a 3 paquetes de cigarrillos tradicionales.</p>
+</li>
+<li>
+<p><strong>Ayuda a Dejar de Fumar:</strong> Libre de nicotina, tabaco y alquitrán. Certificado por la TPD de la UE, es una opción más saludable que te permite disfrutar del vapeo sin humo de segunda mano y contribuye al proceso de dejar de fumar.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vapeadores</s:tag>
+    <s:tag>vaper</s:tag>
+    <s:variant>
+      <id>https://vaperrzone.myshopify.com/products/9524198605141</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vaperrzone.myshopify.com/products/9524186808661</id>
+    <published>2024-08-22T22:26:17+02:00</published>
+    <updated>2024-08-22T22:26:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vaperrzone.myshopify.com/products/vaper-sandia-4800-caladas"/>
+    <title>Vaper Sandía 4800 caladas</title>
+    <s:type>Vaper</s:type>
+    <s:vendor>amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0892/1222/3829/files/vapersandfia.jpg?v=1724358323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>amazon<br>
+        <strong>Tipo: </strong>Vaper<br>
+        <strong>Precio: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Vaper sabor Sandía 4800 caladas</strong><br></p>
+<p><strong>Disfruta de una experiencia de vapeo refrescante con el sabor inconfundible de Mango Hielo.</strong></p>
+<ul>
+<li>
+<p><strong>8 Sabores Disponibles:</strong> Este modelo está disponible en una variedad de 8 sabores distintos, entre ellos Mango Hielo, para una experiencia sensorial única en cada inhalación.</p>
+</li>
+<li>
+<p><strong>Diseño Elegante con Impresión en Relieve:</strong> El vapeador cuenta con un diseño de impresión en relieve, que ofrece una sensación táctil premium y cómoda al sostenerlo.</p>
+</li>
+<li>
+<p><strong>Luz LED Inferior:</strong> Equipado con una luz LED en la parte inferior, el dispositivo indica su estado de funcionamiento de manera elegante y discreta.</p>
+</li>
+<li>
+<p><strong>Listo para Usar:</strong> El pod desechable es compacto y está listo para usar directamente al sacarlo de la caja. Perfecto para llevar a cualquier lugar sin necesidad de cargar accesorios adicionales.</p>
+</li>
+<li>
+<p><strong>Batería de Larga Duración:</strong> La potente batería garantiza una experiencia de vapeo duradera, equivalente a 3 paquetes de cigarrillos tradicionales.</p>
+</li>
+<li>
+<p><strong>Ayuda a Dejar de Fumar:</strong> Libre de nicotina, tabaco y alquitrán. Certificado por la TPD de la UE, es una opción más saludable que te permite disfrutar del vapeo sin humo de segunda mano y contribuye al proceso de dejar de fumar.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vaperrzone.myshopify.com/products/9524186808661</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vaperrzone.myshopify.com/products/9523836944725</id>
+    <published>2024-08-22T19:43:19+02:00</published>
+    <updated>2024-08-22T19:43:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://vaperrzone.myshopify.com/products/vaper-4800-caladas"/>
+    <title>Vaper Mango 4800 caladas</title>
+    <s:type>Vaper</s:type>
+    <s:vendor>amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0892/1222/3829/files/vapermango.jpg?v=1724352047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>amazon<br>
+        <strong>Tipo: </strong>Vaper<br>
+        <strong>Precio: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Vaper sabor Mango 4800 caladas</strong><br></p>
+<p><strong>Disfruta de una experiencia de vapeo refrescante con el sabor inconfundible de Mango Hielo.</strong></p>
+<ul>
+<li>
+<p><strong>8 Sabores Disponibles:</strong> Este modelo está disponible en una variedad de 8 sabores distintos, entre ellos Mango, para una experiencia sensorial única en cada inhalación.</p>
+</li>
+<li>
+<p><strong>Diseño Elegante con Impresión en Relieve:</strong> El vapeador cuenta con un diseño de impresión en relieve, que ofrece una sensación táctil premium y cómoda al sostenerlo.</p>
+</li>
+<li>
+<p><strong>Luz LED Inferior:</strong> Equipado con una luz LED en la parte inferior, el dispositivo indica su estado de funcionamiento de manera elegante y discreta.</p>
+</li>
+<li>
+<p><strong>Listo para Usar:</strong> El pod desechable es compacto y está listo para usar directamente al sacarlo de la caja. Perfecto para llevar a cualquier lugar sin necesidad de cargar accesorios adicionales.</p>
+</li>
+<li>
+<p><strong>Batería de Larga Duración:</strong> La potente batería garantiza una experiencia de vapeo duradera, equivalente a 3 paquetes de cigarrillos tradicionales.</p>
+</li>
+<li>
+<p><strong>Ayuda a Dejar de Fumar:</strong> Libre de nicotina, tabaco y alquitrán. Certificado por la TPD de la UE, es una opción más saludable que te permite disfrutar del vapeo sin humo de segunda mano y contribuye al proceso de dejar de fumar.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vapeadores</s:tag>
+    <s:tag>vaper</s:tag>
+    <s:variant>
+      <id>https://vaperrzone.myshopify.com/products/9523836944725</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
