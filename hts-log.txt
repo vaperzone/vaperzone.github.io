@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Aug 2024 00:38:59 at https://vaperrzone.myshopify.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vaperrzone.myshopify.com/ -O1 "C:\Users\Wasap\Desktop\sssssss" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:39:05	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=es-ES&shop_id=89212223829
+00:39:31	Error: 	"Not Found" (404) at link https://vaperrzone.myshopify.com/POST (from https://vaperrzone.myshopify.com/)
+00:39:31	Error: 	"Error when decompressing" (-1) at link https://vaperrzone.myshopify.com/cdn (from https://vaperrzone.myshopify.com/)
+00:40:07	Error: 	"Not Found" (404) at link https://vaperrzone.myshopify.com/products/POST (from https://vaperrzone.myshopify.com/products/vaper-arandanos-4800-caladas)
+00:40:07	Error: 	"Not Found" (404) at link https://vaperrzone.myshopify.com/policies/POST (from https://vaperrzone.myshopify.com/policies/privacy-policy)
+00:40:07	Error: 	"Not Found" (404) at link https://vaperrzone.myshopify.com/collections/POST (from https://vaperrzone.myshopify.com/collections/all)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 8 seconds : 136 links scanned, 130 files written (4771780 bytes overall) [3864782 bytes received at 56835 bytes/sec], 2068524 bytes transferred using HTTP compression in 75 files, ratio 26%, 47.8 requests per connection
+(5 errors, 1 warnings, 0 messages)
